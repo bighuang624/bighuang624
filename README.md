@@ -1,6 +1,6 @@
 ### Hi there, I'm [Siteng Huang (黄思腾 in Chinese)](https://kyonhuang.top/)! 👋 You can also call me Kyon Huang.
 
-I am a joint Ph.D. student of <a href="https://www.westlake.edu.cn/" target="_blank">Westlake University</a> and <a href="http://www.zju.edu.cn/" target="_blank">Zhejiang University</a>, advised by Dr. <a href="https://en.westlake.edu.cn/about/faculty/201912/t20191206_2513.shtml" target="_blank">Donglin Wang</a>. Also, I am a member of <a href="https://milab.westlake.edu.cn/" target="_blank">MiLAB (Machine Intelligence Laboratory)</a> in Westlake University, where I do my research work.
+I am a joint Ph.D. student of <a href="http://www.zju.edu.cn/" target="_blank">Zhejiang University</a> and <a href="https://www.westlake.edu.cn/" target="_blank">Westlake University</a>, advised by Dr. <a href="https://en.westlake.edu.cn/about/faculty/201912/t20191206_2513.shtml" target="_blank">Donglin Wang</a>. And I am a member of <a href="https://milab.westlake.edu.cn/" target="_blank">MiLAB (Machine Intelligence Laboratory)</a> in Westlake University, where I do my research work. Cuurently, I am also a research intern at <a href="https://damo.alibaba.com/" target="_blank">DAMO Academy, Alibaba Group</a>.
 
 <p align="center"> 🔭 <a href="https://kyonhuang.top/" target="_blank">View My Website</a>
 &nbsp; &nbsp; |  &nbsp; &nbsp; 📃 <a href="https://kyonhuang.top/files/SitengHuang-CV-en.pdf" target="_blank">View My CV</a></p>
@@ -10,12 +10,12 @@ I am a joint Ph.D. student of <a href="https://www.westlake.edu.cn/" target="_bl
   <a href="https://github.com/bighuang624?tab=followers"><img src="https://img.shields.io/github/followers/bighuang624.svg?label=Follow%20@bighuang624&style=social" alt="GitHub"></a>
 </p>
 
-👯 I am **seeking research intern opportunities in 2022** for solving challenging research problems in the domain of data-efficient learning. Please refer to my [CV (Chinese)](https://kyonhuang.top/files/SitengHuang-CV-cn.pdf) and feel free to reach out to me if you are interested!
+<!-- 👯 I am **seeking research intern opportunities in 2022** for solving challenging research problems in the domain of data-efficient learning. Please refer to my [CV (Chinese)](https://kyonhuang.top/files/SitengHuang-CV-cn.pdf) and feel free to reach out to me if you are interested! -->
 
-🔍 Currently, I mainly focus on:
+🔍 I mainly focus on:
 
 - technologies that allow machines and robots to complete new tasks, acquire new skills or adapt to the environment rapidly with fewer samples through learning algorithms
-- multimodal machine learning, sequence modeling and deep learning
+- computer vision, multimodal machine learning, sequence modeling and deep learning
 
 <!-- 👯 I am open to:
 
