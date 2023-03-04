@@ -34,7 +34,7 @@ I am a joint Ph.D. student of <a href="http://www.zju.edu.cn/" target="_blank">Z
 
 💬 News:
 
-- **[February 28, 2023]** [One paper about parameter-efficient text-video retrieval](https://kyonhuang.top/publication/text-video-cooperative-prompt-tuning) got accepted for CVPR 2023. Congratulations to all collaborators!
+- [February 28, 2023] [One paper about parameter-efficient text-video retrieval](https://kyonhuang.top/publication/text-video-cooperative-prompt-tuning) got accepted for [CVPR 2023](https://cvpr.thecvf.com/Conferences/2023). Congratulations to all collaborators!
 
 <!-- - We are looking for **research assistants and visiting students for MiLAB** (currently only for Chinese). More information about requirements for research assistants <a href="https://www.westlake.edu.cn/Careers/OpenPositions/research/202110/t20211014_14007.shtml" target="_blank">here</a>, and if you are still in school, being a visiting student is also welcome. Please send email to `mi_lab[at]westlake.edu.cn` with your CV if you are interested. Specially, if you are interested in my research direction and would like to be my collaborator after coming, please let us know it from the email. -->
 
