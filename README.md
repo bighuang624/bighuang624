@@ -9,6 +9,7 @@ I am a joint Ph.D. student of <a href="http://www.zju.edu.cn/" target="_blank">Z
   <a href="https://twitter.com/KyonHuang"><img src="https://img.shields.io/twitter/follow/KyonHuang.svg?style=social" alt="Twitter"></a>
   <a href="https://github.com/bighuang624?tab=followers"><img src="https://img.shields.io/github/followers/bighuang624.svg?label=Follow%20@bighuang624&style=social" alt="GitHub"></a>
   <a href="https://github.com/bighuang624"><img src="https://img.shields.io/github/stars/bighuang624.svg?style=social" alt="GitHub"></a>
+  <a href="https://scholar.google.com/citations?user=mhpkWSYAAAAJ"><img src="[https://img.shields.io/github/stars/bighuang624.svg?style=social](https://img.shields.io/badge/dynamic/json?label=citations&query=total_citations&url=https%3A%2F%2Fcse.bth.se%2F~fer%2Fgooglescholar-api%2Fgooglescholar.php%3Fuser%3DmhpkWSYAAAAJ&style=social)" alt="Google Scholar"></a>
 </p>
 
 <!-- 👯 I am **seeking research intern opportunities in 2022** for solving challenging research problems in the domain of data-efficient learning. Please refer to my [CV (Chinese)](https://kyonhuang.top/files/SitengHuang-CV-cn.pdf) and feel free to reach out to me if you are interested! -->
