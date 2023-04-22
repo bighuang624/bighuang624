@@ -1,9 +1,11 @@
 ### Hi there, I'm [Siteng Huang (黄思腾 in Chinese)](https://kyonhuang.top/)! 👋 You can also call me Kyon Huang.
 
-I am a joint Ph.D. student of <a href="http://www.zju.edu.cn/" target="_blank">Zhejiang University</a> and <a href="https://www.westlake.edu.cn/" target="_blank">Westlake University</a>, advised by Dr. <a href="https://en.westlake.edu.cn/about/faculty/201912/t20191206_2513.shtml" target="_blank">Donglin Wang</a>. And I am a member of <a href="https://milab.westlake.edu.cn/" target="_blank">MiLAB (Machine Intelligence Laboratory)</a> in Westlake University, where I do my research work. Currently, I am also a research intern at <a href="https://damo.alibaba.com/" target="_blank">DAMO Academy, Alibaba Group</a>.
+I am a joint Ph.D. student of <a href="http://www.zju.edu.cn/" target="_blank">Zhejiang University</a> and <a href="https://www.westlake.edu.cn/" target="_blank">Westlake University</a>, advised by Dr. <a href="https://en.westlake.edu.cn/about/faculty/201912/t20191206_2513.shtml" target="_blank">Donglin Wang</a>. And I am a member of [Machine Intelligence Laboratory (MiLAB)](https://milab.westlake.edu.cn/) in Westlake University, and currently also a research intern at <a href="https://damo.alibaba.com/" target="_blank">DAMO Academy, Alibaba Group</a>. Prior to my Ph.D. career, I received my B.Eng. Degree from School of Computer Science, [Wuhan University](https://www.whu.edu.cn/) in 2019.
+
+I am **seeking exciting industry opportunities for both research and applications after Ph.D. graduation (June 2024)**. Please feel free to [drop me an email](mailto:huangsiteng@westlake.edu.cn) if you are interested!
 
 <p align="center"> 🔭 <a href="https://kyonhuang.top/" target="_blank">View My Website</a>
-&nbsp; &nbsp; |  &nbsp; &nbsp; 📃 <a href="https://kyonhuang.top/files/SitengHuang-CV-en.pdf" target="_blank">View My CV</a></p>
+&nbsp; &nbsp; |  &nbsp; &nbsp; 📃 <a href="https://kyonhuang.top/files/SitengHuang-CV-cn.pdf" target="_blank">View My CV (Chinese)</a> / <a href="https://kyonhuang.top/files/SitengHuang-CV-en.pdf" target="_blank">(English)</a></p> 
 
 <p align="center">
   <a href="https://twitter.com/KyonHuang"><img src="https://img.shields.io/twitter/follow/KyonHuang.svg?style=social" alt="Twitter"></a>
@@ -12,12 +14,11 @@ I am a joint Ph.D. student of <a href="http://www.zju.edu.cn/" target="_blank">Z
   <a href="https://scholar.google.com/citations?user=mhpkWSYAAAAJ"><img src="https://img.shields.io/badge/dynamic/json?label=Paper%20Citations&query=total_citations&url=https%3A%2F%2Fcse.bth.se%2F~fer%2Fgooglescholar-api%2Fgooglescholar.php%3Fuser%3DmhpkWSYAAAAJ&logo=googlescholar&style=social" alt="Google Scholar"></a>
 </p>
 
-<!-- 👯 I am **seeking research intern opportunities in 2022** for solving challenging research problems in the domain of data-efficient learning. Please refer to my [CV (Chinese)](https://kyonhuang.top/files/SitengHuang-CV-cn.pdf) and feel free to reach out to me if you are interested! -->
-
 🔍 I mainly focus on:
 
-- technologies that allow machines and robots to complete new tasks, acquire new skills or adapt to the environment rapidly with fewer samples through learning algorithms
-- transfer learning, multi-modal learning, computer vision and deep learning
+- **Transfer Learning**: parameter-efficient transfer learning, meta-learning
+- **Multi-modal Learning**: text-to-image generation, vision-language pre-training, text-video retrieval
+- **Computer Vision**: few-shot learning, compositional zero-shot learning
 
 <!-- 👯 I am open to:
 
