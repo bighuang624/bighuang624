@@ -8,10 +8,10 @@ I am **seeking exciting industry opportunities for both research and application
 &nbsp; &nbsp; |  &nbsp; &nbsp; 📃 <a href="https://kyonhuang.top/files/SitengHuang-CV-cn.pdf" target="_blank">View My CV (Chinese)</a> / <a href="https://kyonhuang.top/files/SitengHuang-CV-en.pdf" target="_blank">(English)</a></p> 
 
 <p align="center">
-  <a href="https://twitter.com/KyonHuang"><img src="https://img.shields.io/twitter/follow/KyonHuang.svg?style=social" alt="Twitter"></a>
-  <a href="https://github.com/bighuang624?tab=followers"><img src="https://img.shields.io/github/followers/bighuang624.svg?label=Follow%20@bighuang624&style=social" alt="GitHub"></a>
-  <a href="https://github.com/bighuang624"><img src="https://img.shields.io/github/stars/bighuang624.svg?style=social" alt="GitHub"></a>
-  <a href="https://scholar.google.com/citations?user=mhpkWSYAAAAJ"><img src="https://img.shields.io/badge/dynamic/json?label=Paper%20Citations&query=total_citations&url=https%3A%2F%2Fcse.bth.se%2F~fer%2Fgooglescholar-api%2Fgooglescholar.php%3Fuser%3DmhpkWSYAAAAJ&logo=googlescholar&style=social" alt="Google Scholar"></a>
+  <a href="https://twitter.com/KyonHuang" target="_blank"><img src="https://img.shields.io/twitter/follow/KyonHuang.svg?style=social" alt="Twitter"></a>
+  <a href="https://github.com/bighuang624?tab=followers" target="_blank"><img src="https://img.shields.io/github/followers/bighuang624.svg?label=Follow%20@bighuang624&style=social" alt="GitHub"></a>
+  <a href="https://github.com/bighuang624" target="_blank"><img src="https://img.shields.io/github/stars/bighuang624.svg?style=social" alt="GitHub"></a>
+  <a href="https://scholar.google.com/citations?user=mhpkWSYAAAAJ" target="_blank"><img src="https://img.shields.io/badge/dynamic/json?label=Paper%20Citations&query=total_citations&url=https%3A%2F%2Fcse.bth.se%2F~fer%2Fgooglescholar-api%2Fgooglescholar.php%3Fuser%3DmhpkWSYAAAAJ&logo=googlescholar&style=social" alt="Google Scholar"></a>
 </p>
 
 🔍 I mainly focus on:
