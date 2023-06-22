@@ -14,29 +14,32 @@ I am **seeking exciting industry opportunities for both research and application
   <a href="https://scholar.google.com/citations?user=mhpkWSYAAAAJ" target="_blank"><img src="https://img.shields.io/badge/dynamic/json?label=Paper%20Citations&query=total_citations&url=https%3A%2F%2Fcse.bth.se%2F~fer%2Fgooglescholar-api%2Fgooglescholar.php%3Fuser%3DmhpkWSYAAAAJ&logo=googlescholar&style=social" alt="Google Scholar"></a>
 </p>
 
-🔍 I mainly focus on:
+🔍 Currently, my research has centered on
 
-- **Transfer Learning**: parameter-efficient transfer learning, meta-learning
-- **Multi-modal Learning**: text-to-image generation, vision-language pre-training, text-video retrieval
-- **Computer Vision**: few-shot learning, compositional zero-shot learning
+* **AIGC**: text-to-image generation (T2I), customized generation, controllable generation
+* **Multi-modal large models**: parameter-efficient fine-tuning (PEFT / PETL), vision-language pre-trained models (VLM), text-video retrieval (TVR)
+* **Data-efficient learning**: few-shot learning (FSL), compositional zero-shot learning (CZSL), meta-learning
+
+I am always looking for related colaboration. If you are interested to chat with me, feel free to drop me an <a href="mailto:siteng.huang@gmail.com" target="_blank">email</a>.
 
 <!-- 👯 I am open to:
 
 - cooperation opportunities (anytime & anywhere & any type)
 - Feel free to reach out to me if you are interested! -->
 
-⚡ Something else about me:
+💬 News:
+
+- [April 2, 2023] [One paper about reference-limited compositional learning](https://kyonhuang.top/publication/reference-limited-CZSL) got accepted for [ICMR 2023](https://icmr2023.org/). Congratulations to all collaborators!
+- [February 28, 2023] [One paper about parameter-efficient text-video retrieval](https://kyonhuang.top/publication/text-video-cooperative-prompt-tuning) got accepted for [CVPR 2023](https://cvpr.thecvf.com/Conferences/2023). Congratulations to all collaborators!
+
+<!-- ⚡ Something else about me:
 
 - I love to share what I've learned and thought in <a href="https://github.com/bighuang624" target="_blank">Github</a> and <a href="http://kyonhuang.top/blog/" target="_blank">Chinese blog</a>
-- I used to be a front-end developer
+- I used to be a front-end developer -->
 
 📫 Contact me by:
 
 - Email: `siteng.huang[at]gmail.com` (Please change [at] to @)
-
-💬 News:
-
-- [February 28, 2023] [One paper about parameter-efficient text-video retrieval](https://kyonhuang.top/publication/text-video-cooperative-prompt-tuning) got accepted for [CVPR 2023](https://cvpr.thecvf.com/Conferences/2023). Congratulations to all collaborators!
 
 <!-- - We are looking for **research assistants and visiting students for MiLAB** (currently only for Chinese). More information about requirements for research assistants <a href="https://www.westlake.edu.cn/Careers/OpenPositions/research/202110/t20211014_14007.shtml" target="_blank">here</a>, and if you are still in school, being a visiting student is also welcome. Please send email to `mi_lab[at]westlake.edu.cn` with your CV if you are interested. Specially, if you are interested in my research direction and would like to be my collaborator after coming, please let us know it from the email. -->
 
