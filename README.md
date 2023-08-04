@@ -16,7 +16,7 @@ I am **seeking exciting industry opportunities for both research and application
 
 🔍 Currently, my research has centered on
 
-* **AIGC**: text-to-image generation (T2I), customized generation, controllable generation
+* **AIGC**: text-to-image generation (T2I), customized & controllable generation
 * **Multi-modal large models**: parameter-efficient fine-tuning (PEFT / PETL), vision-language pre-trained models (VLM), text-video retrieval (TVR)
 * **Data-efficient learning**: few-shot learning (FSL), compositional zero-shot learning (CZSL), meta-learning
 
@@ -29,6 +29,7 @@ I am always looking for related colaboration. If you are interested to chat with
 
 💬 News:
 
+- [July 24, 2023] [2023 Scholar Metrics](https://scholar.googleblog.com/2023/07/2023-scholar-metrics-released.html) was released by Google Scholar. Our paper "[DSANet: Dual Self-Attention Network for Multivariate Time Series Forecasting](https://kyonhuang.top/publication/dual-self-attention-network)" ranked **[26th](https://scholar.google.com/citations?hl=zh-CN&oe=GB&view_op=list_hcore&venue=V-IMg2OTpU8J.2023&vq=eng_databasesinformationsystems&cstart=20)** of the CIKM conference according to the citations within five years, and **8th** among papers published in the same year.
 - [April 2, 2023] [One paper about reference-limited compositional learning](https://kyonhuang.top/publication/reference-limited-CZSL) got accepted for [ICMR 2023](https://icmr2023.org/). Congratulations to all collaborators!
 - [February 28, 2023] [One paper about parameter-efficient text-video retrieval](https://kyonhuang.top/publication/text-video-cooperative-prompt-tuning) got accepted for [CVPR 2023](https://cvpr.thecvf.com/Conferences/2023). Congratulations to all collaborators!
 
