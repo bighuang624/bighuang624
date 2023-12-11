@@ -1,6 +1,6 @@
 ### Hi there, I'm [Siteng Huang (黄思腾 in Chinese)](https://kyonhuang.top/)! 👋 You can also call me Kyon Huang.
 
-I am a Ph.D. student of [Zhejiang University](http://www.zju.edu.cn/), advised by Prof. [Donglin Wang](https://en.westlake.edu.cn/about/faculty/201912/t20191206_2513.shtml). And I am currently a research intern at <a href="https://damo.alibaba.com/" target="_blank">DAMO Academy, Alibaba Group</a>. Prior to my Ph.D. career, I received my B.Eng. Degree from School of Computer Science, [Wuhan University](https://www.whu.edu.cn/) in 2019.
+I am a Ph.D. student of [Zhejiang University](http://www.zju.edu.cn/), advised by Prof. [Donglin Wang](https://en.westlake.edu.cn/about/faculty/201912/t20191206_2513.shtml). Currently, I am also a research intern at Alibaba Group. Prior to my Ph.D. career, I received my B.Eng. Degree from School of Computer Science, [Wuhan University](https://www.whu.edu.cn/) in 2019.
 
 I am **seeking exciting industry opportunities for both research and applications after Ph.D. graduation (June 2024)**. Here is my [academic page](https://kyonhuang.top/). Please feel free to drop me an [email](mailto:siteng.huang@gmail.com) if you are interested!
 
@@ -16,11 +16,11 @@ I am **seeking exciting industry opportunities for both research and application
 
 🔍 Currently, my research has centered on
 
-* **AIGC**: text-to-image generation (T2I), customized & controllable generation
-* **Multi-modal large models**: parameter-efficient fine-tuning (PEFT / PETL), vision-language pre-trained models (VLM), text-video retrieval (TVR)
-* **Data-efficient learning**: few-shot learning (FSL), compositional zero-shot learning (CZSL), meta-learning
+* **AIGC**: text-to-image generation (T2I), customized & controllable generation, diffusion models
+* **Multi-modal large models**: parameter-efficient fine-tuning (PEFT / PETL), multimodal large language models (MLLM), vision-language pre-trained models (VLM), text-video retrieval (TVR)
+* **Data-efficient learning**: few-shot learning (FSL), compositional zero-shot learning (CZSL), meta-learning, transfer learning
 
-I am always looking for related colaboration. If you are interested to chat with me, feel free to drop me an <a href="mailto:siteng.huang@gmail.com" target="_blank">email</a>.
+Also, my interests include embodied AI. I am always looking for related colaboration. If you are interested to chat with me, feel free to drop me an <a href="mailto:siteng.huang@gmail.com" target="_blank">email</a>.
 
 <!-- 👯 I am open to:
 
@@ -29,9 +29,13 @@ I am always looking for related colaboration. If you are interested to chat with
 
 💬 News:
 
-- [July 24, 2023] [2023 Scholar Metrics](https://scholar.googleblog.com/2023/07/2023-scholar-metrics-released.html) was released by Google Scholar. Our paper "[DSANet: Dual Self-Attention Network for Multivariate Time Series Forecasting](https://kyonhuang.top/publication/dual-self-attention-network)" ranked **[26th](https://scholar.google.com/citations?hl=zh-CN&oe=GB&view_op=list_hcore&venue=V-IMg2OTpU8J.2023&vq=eng_databasesinformationsystems&cstart=20)** of the CIKM conference according to the citations within five years, and **8th** among papers published in the same year.
-- [April 2, 2023] [One paper about reference-limited compositional learning](https://kyonhuang.top/publication/reference-limited-CZSL) got accepted for [ICMR 2023](https://icmr2023.org/). Congratulations to all collaborators!
-- [February 28, 2023] [One paper about parameter-efficient text-video retrieval](https://kyonhuang.top/publication/text-video-cooperative-prompt-tuning) got accepted for [CVPR 2023](https://cvpr.thecvf.com/Conferences/2023). Congratulations to all collaborators!
+* **[December 9, 2023]** One paper on VLM-based unsupervised domain adaptation got accepted for AAAI 2024.
+* **[November 29, 2023]** A new [paper](https://arxiv.org/abs/2311.15841) on action-customized text-to-image generation was released. [Project page](https://adi-t2i.github.io/ADI/) has been available.
+* **[November 29, 2023]** A new [paper](https://arxiv.org/abs/2311.15841) about a training-free layout calibration system for text-to-image generation was released. [Project page](https://simm-t2i.github.io/SimM/) has been available.
+* **[Semptember 6, 2023]** A new [paper](https://arxiv.org/abs/2309.01141) on diffusion model-based zero-shot visual grounding was released. 
+* **[July 24, 2023]** [2023 Scholar Metrics](https://scholar.googleblog.com/2023/07/2023-scholar-metrics-released.html) was released by Google Scholar. Our paper "[DSANet: Dual Self-Attention Network for Multivariate Time Series Forecasting](https://kyonhuang.top/publication/dual-self-attention-network)" ranked **8th** of the CIKM 2019 conference according to the citations, and **[26th](https://scholar.google.com/citations?hl=zh-CN&oe=GB&view_op=list_hcore&venue=V-IMg2OTpU8J.2023&vq=eng_databasesinformationsystems&cstart=20)** within five years.
+* **[April 2, 2023]** [One paper about reference-limited compositional learning](https://kyonhuang.top/publication/reference-limited-CZSL) got accepted for ICMR 2023. Congratulations to all collaborators!
+* **[February 28, 2023]** [One paper about parameter-efficient text-video retrieval](https://kyonhuang.top/publication/text-video-cooperative-prompt-tuning) got accepted for CVPR 2023. Congratulations to all collaborators!
 
 <!-- ⚡ Something else about me:
 
