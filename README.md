@@ -30,6 +30,7 @@ I am always looking for related colaboration. If you are interested to chat with
 
 💬 News:
 
+* **[February 27, 2024]** Three papers as first/co-first author got accepted for CVPR 2024. Congratulations to all collaborators!
 * **[December 13, 2023]** The [paper](https://arxiv.org/abs/2309.01141) on diffusion model-based zero-shot visual grounding got accepted for ICASSP 2024. Congratulations to all collaborators!
 * **[December 9, 2023]** One [paper](https://arxiv.org/abs/2312.09553) on VLM-based unsupervised domain adaptation got accepted for AAAI 2024.
 * **[November 29, 2023]** A new [paper](https://arxiv.org/abs/2311.15841) on action-customized text-to-image generation was released. [Project page](https://adi-t2i.github.io/ADI/) has been available.
