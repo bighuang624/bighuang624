@@ -30,12 +30,14 @@ I am always looking for related colaboration. If you are interested to chat with
 
 💬 News:
 
+* **[November 29, 2023]** A new [paper](https://arxiv.org/abs/2403.14520) about Cobra, an efficient multi-modal large language model, was released. [Project page](https://sites.google.com/view/cobravlm) has been available. The paper has been featured by [Hugging Face Daily Papers](https://huggingface.co/papers?date=2024-03-22)! Demo will be soon available.
+* **[March 13, 2024]** One paper about parameter-efficient tuning for visual grounding got accepted for ICME 2024.
+* **[February 27, 2024]** Awarded as Zhejiang University 2024 Outstanding Graduates!
 * **[February 27, 2024]** Three papers as first/co-first author got accepted for CVPR 2024. Congratulations to all collaborators!
-* **[December 13, 2023]** The [paper](https://arxiv.org/abs/2309.01141) on diffusion model-based zero-shot visual grounding got accepted for ICASSP 2024. Congratulations to all collaborators!
+* **[December 13, 2023]** One [paper](https://arxiv.org/abs/2309.01141) on diffusion model-based zero-shot visual grounding got accepted for ICASSP 2024. Congratulations to all collaborators!
 * **[December 9, 2023]** One [paper](https://arxiv.org/abs/2312.09553) on VLM-based unsupervised domain adaptation got accepted for AAAI 2024.
 * **[November 29, 2023]** A new [paper](https://arxiv.org/abs/2311.15841) on action-customized text-to-image generation was released. [Project page](https://adi-t2i.github.io/ADI/) has been available.
-* **[November 29, 2023]** A new [paper](https://arxiv.org/abs/2311.15841) about a training-free layout calibration system for text-to-image generation was released. [Project page](https://simm-t2i.github.io/SimM/) has been available.
-* **[Semptember 6, 2023]** A new [paper](https://arxiv.org/abs/2309.01141) on diffusion model-based zero-shot visual grounding was released. 
+* **[November 29, 2023]** A new [paper](https://arxiv.org/abs/2311.15773) about a training-free layout calibration system for text-to-image generation was released. [Project page](https://simm-t2i.github.io/SimM/) has been available.
 * **[July 24, 2023]** [2023 Scholar Metrics](https://scholar.googleblog.com/2023/07/2023-scholar-metrics-released.html) was released by Google Scholar. Our paper "[DSANet: Dual Self-Attention Network for Multivariate Time Series Forecasting](https://kyonhuang.top/publication/dual-self-attention-network)" ranked **8th** of the CIKM 2019 conference according to the citations, and **[26th](https://scholar.google.com/citations?hl=zh-CN&oe=GB&view_op=list_hcore&venue=V-IMg2OTpU8J.2023&vq=eng_databasesinformationsystems&cstart=20)** within five years.
 * **[April 2, 2023]** [One paper about reference-limited compositional learning](https://kyonhuang.top/publication/reference-limited-CZSL) got accepted for ICMR 2023. Congratulations to all collaborators!
 * **[February 28, 2023]** [One paper about parameter-efficient text-video retrieval](https://kyonhuang.top/publication/text-video-cooperative-prompt-tuning) got accepted for CVPR 2023. Congratulations to all collaborators!
