@@ -32,16 +32,17 @@ I am always looking for related collaborations, and most of them have produced t
 
 💬 News:
 
+* **[May 5, 2024]** Our [Cobra](https://sites.google.com/view/cobravlm) was selected for [VALSE 2024](https://valser.org/2024/#/) [Annual Progress Representation](https://kyonhuang.top/files/Cobra/VALSE24-APR-Cobra.jpg). Thanks to all the committee for the approval!
 * **[March 29, 2024]** [Troika](https://arxiv.org/abs/2303.15230) got accepted as [VALSE 2024](https://valser.org/2024/#/) Poster!
 * **[March 21, 2024]** [Cobra](https://arxiv.org/abs/2403.14520), an efficient multi-modal large language model, was released. [Project page](https://sites.google.com/view/cobravlm) has been available. The paper has been featured by [Hugging Face Daily Papers](https://huggingface.co/papers?date=2024-03-22)! [Demo](https://huggingface.co/spaces/han1997/cobra) has been available!
 * **[March 13, 2024]** One paper about parameter-efficient tuning for visual grounding got accepted for ICME 2024 (Oral).
 * **[February 27, 2024]** Awarded as Zhejiang University 2024 Outstanding Graduates!
 * **[February 27, 2024]** Three papers (<a href="https://arxiv.org/abs/2311.15841" target="_blank">ADI</a>, <a href="https://arxiv.org/abs/2303.15230" target="_blank">Troika</a>, <a href="https://arxiv.org/abs/2311.15773" target="_blank">SimM</a>) as first/co-first author got accepted for CVPR 2024. Congratulations to all collaborators!
-* **[December 13, 2023]** One [paper](https://arxiv.org/abs/2309.01141) on diffusion model-based zero-shot visual grounding got accepted for ICASSP 2024. Congratulations to all collaborators!
+* **[December 13, 2023]** The paper of [VGDiffZero](https://arxiv.org/abs/2309.01141) on diffusion model-based zero-shot visual grounding got accepted for ICASSP 2024. Congratulations to all collaborators!
 * **[December 9, 2023]** One [paper](https://arxiv.org/abs/2312.09553) on VLM-based unsupervised domain adaptation got accepted for AAAI 2024.
 * **[July 24, 2023]** [2023 Scholar Metrics](https://scholar.googleblog.com/2023/07/2023-scholar-metrics-released.html) was released by Google Scholar. Our paper "[DSANet: Dual Self-Attention Network for Multivariate Time Series Forecasting](https://kyonhuang.top/publication/dual-self-attention-network)" ranked **8th** of the CIKM 2019 conference according to the citations, and **[26th](https://scholar.google.com/citations?hl=zh-CN&oe=GB&view_op=list_hcore&venue=V-IMg2OTpU8J.2023&vq=eng_databasesinformationsystems&cstart=20)** within five years.
-* **[April 2, 2023]** [One paper about reference-limited compositional learning](https://kyonhuang.top/publication/reference-limited-CZSL) got accepted for ICMR 2023. Congratulations to all collaborators!
-* **[February 28, 2023]** [One paper about parameter-efficient text-video retrieval](https://kyonhuang.top/publication/text-video-cooperative-prompt-tuning) got accepted for CVPR 2023. Congratulations to all collaborators!
+* **[April 2, 2023]** The paper of [RL-CZSL](https://kyonhuang.top/publication/reference-limited-CZSL) about reference-limited compositional learning got accepted for ICMR 2023. Congratulations to all collaborators!
+* **[February 28, 2023]** The paper of [VoP](https://kyonhuang.top/publication/text-video-cooperative-prompt-tuning) about parameter-efficient text-video retrieval got accepted for CVPR 2023. Congratulations to all collaborators!
 
 <!-- ⚡ Something else about me:
 
