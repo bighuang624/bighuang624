@@ -1,6 +1,6 @@
 ### Hi there, I'm [Siteng Huang (黄思腾 in Chinese)](https://kyonhuang.top/)! 👋 You can also call me Kyon Huang.
 
-I am a fifth-year Ph.D. student at [Zhejiang University](http://www.zju.edu.cn/), advised by Prof. [Donglin Wang](https://en.westlake.edu.cn/about/faculty/201912/t20191206_2513.shtml). Additionally, I am involved in a joint program with [Westlake University](https://www.westlake.edu.cn/) as a member of [Machine Intelligence Laboratory (MiLAB)](https://milab.westlake.edu.cn/). Currently, I am also a research intern at Alibaba Group. Prior to my Ph.D. career, I received my B.Eng. Degree from School of Computer Science, [Wuhan University](https://www.whu.edu.cn/) in 2019.
+I am a fifth-year Ph.D. student at [Zhejiang University](http://www.zju.edu.cn/), advised by Prof. [Donglin Wang](https://en.westlake.edu.cn/faculty/donglin-wang.html). Additionally, I am involved in a joint program with [Westlake University](https://www.westlake.edu.cn/) as a member of [Machine Intelligence Laboratory (MiLAB)](https://milab.westlake.edu.cn/). Currently, I am also a research intern at Alibaba Group. Prior to my Ph.D. career, I received my B.Eng. Degree from School of Computer Science, [Wuhan University](https://www.whu.edu.cn/) in 2019.
 
 Expected to obtain the Ph.D. degree in July, 2024.
 
@@ -32,6 +32,7 @@ I am always looking for related collaborations, and most of them have produced t
 
 💬 News:
 
+* **[June 4, 2024]** I successfully defended my dissertation. So many thanks to my Ph.D. committee (Prof. [Xiaogang Jin](http://www.cad.zju.edu.cn/home/jin/), Prof. [Mai Xu](https://shi.buaa.edu.cn/xumai/en/index.htm), Prof. [Changxin Gao](http://faculty.hust.edu.cn/cgao/en/index.htm), Prof. [Fajie Yuan](https://en.westlake.edu.cn/faculty/fajie-yuan.html), Prof. [Peidong Liu](https://en.westlake.edu.cn/faculty/peidong-liu.html), Prof. [Xiaofei Li](https://en.westlake.edu.cn/faculty/xiaofei-li.html)) and my advisor!
 * **[May 5, 2024]** Our [Cobra](https://sites.google.com/view/cobravlm) was selected for [VALSE 2024](https://valser.org/2024/#/) [Annual Progress Representation](https://kyonhuang.top/files/Cobra/VALSE24-APR-Cobra.jpg). Thanks to all the committee for the approval!
 * **[March 29, 2024]** [Troika](https://arxiv.org/abs/2303.15230) got accepted as [VALSE 2024](https://valser.org/2024/#/) Poster!
 * **[March 21, 2024]** [Cobra](https://arxiv.org/abs/2403.14520), an efficient multi-modal large language model, was released. [Project page](https://sites.google.com/view/cobravlm) has been available. The paper has been featured by [Hugging Face Daily Papers](https://huggingface.co/papers?date=2024-03-22)! [Demo](https://huggingface.co/spaces/han1997/cobra) has been available!
